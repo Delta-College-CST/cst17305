@@ -1,6 +1,5 @@
-# This program averages three test scores, determines
-# if a student is passing or failing, and assigns
-# a letter grade
+# This program receives 3 test scores and writes the
+# sum of the highest 2 tests.
 
 # Input two numbers
 test1 = int(input("Enter Test 1 score: "))
